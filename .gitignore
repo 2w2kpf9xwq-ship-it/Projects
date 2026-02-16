@@ -9,6 +9,7 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
+anaconda_projects/
 
 # Data
 data/
