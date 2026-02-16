@@ -24,3 +24,5 @@ Thumbs.db
 train.gz
 
 heart_disease/
+
+.virtual_documents/
